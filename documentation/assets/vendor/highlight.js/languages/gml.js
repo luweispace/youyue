@@ -659,7 +659,7 @@ export default function(hljs) {
       'ev_global_gesture_rotate_start ev_global_gesture_rotating ' +
       'ev_global_gesture_rotate_end vk_nokey vk_anykey vk_enter vk_return ' +
       'vk_shift vk_control vk_alt vk_escape vk_space vk_backspace vk_tab ' +
-      'vk_pause vk_printscreen vk_left vk_right vk_up vk_down vk_home ' +
+      'vk_pause vk_printscreen vk_left vk_right vk_up vk_down vk_主页 ' +
       'vk_end vk_delete vk_insert vk_pageup vk_pagedown vk_f1 vk_f2 vk_f3 ' +
       'vk_f4 vk_f5 vk_f6 vk_f7 vk_f8 vk_f9 vk_f10 vk_f11 vk_f12 vk_numpad0 ' +
       'vk_numpad1 vk_numpad2 vk_numpad3 vk_numpad4 vk_numpad5 vk_numpad6 ' +
